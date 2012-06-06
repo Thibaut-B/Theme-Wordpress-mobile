@@ -1,0 +1,6 @@
+.htaccess
+.DS_Store
+license.txt
+version-mobile eyrolles.esproj/
+*.espressostorage
+*.esproj
